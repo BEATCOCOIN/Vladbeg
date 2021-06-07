@@ -13,6 +13,7 @@ int main()
     input(&num1,&num2;)
     cout <<"числа: " << num1 << ";" << num2 << endl;
 
+    cout << "сумма этих двух чисел равна : " << num1 + num2 << endl;
 
     return 0;
 }
